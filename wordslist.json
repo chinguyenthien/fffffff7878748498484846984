@@ -1,0 +1,6 @@
+[
+    {"vn": "con mèo", "type": "noun", "en": "cat"},
+    {"vn": "con chó", "type": "noun", "en": "dog"},
+    {"vn": "đi bộ", "type": "verb", "en": "walk"},
+    {"vn": "đẹp", "type": "adjective", "en": "beautiful"}
+]
