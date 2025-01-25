@@ -41,6 +41,7 @@ textarea, input {
     border-radius: 5px;
     box-sizing: border-box;
     resize: none;
+    font-size: 13px;
 }
 
 button {
